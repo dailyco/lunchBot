@@ -1,0 +1,11 @@
+{
+  "apps": {
+    "T04J76D4C": {
+      "app_id": "A05F8EPAN4T",
+      "IsDev": false,
+      "team_domain": "daangn",
+      "team_id": "T04J76D4C"
+    }
+  },
+  "default": "daangn"
+}
